@@ -99,9 +99,3 @@ To verify all compiler phases are working correctly:
 ```bash
 python test_all.py
 ```
-
----
-
-# Team Striver
-- **Project**: Code Genesis - C to Python Transpiler
-- **Course**: Compiler Design (TCS-601)
